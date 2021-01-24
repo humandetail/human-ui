@@ -1,0 +1,24 @@
+{
+  "name": "human-ui",
+  "version": "0.0.1",
+  "description": "A Vue.js 3.0 UI toolkit for Web.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/humandetail/human-ui.git"
+  },
+  "keywords": [
+    "Vue.js",
+    "Vue3.0",
+    "UI"
+  ],
+  "author": "humandetail",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/humandetail/human-ui/issues"
+  },
+  "homepage": "https://github.com/humandetail/human-ui#readme"
+}
